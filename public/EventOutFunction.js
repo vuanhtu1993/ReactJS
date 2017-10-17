@@ -15,7 +15,7 @@ class ButtonAlert extends React.Component {
         );
     }
 }
-
+// arrow function là cách định nghĩa nhanh một function, Tức là thực thi arrow function trước khi thực thi các hàm trong arrow function
 ReactDOM.render(
     <h1 className="renderFirst"> Web Developer </h1>,
     document.getElementById("root")
